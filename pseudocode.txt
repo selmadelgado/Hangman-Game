@@ -1,0 +1,16 @@
+//  LOGIC FOR HANGMAN GAME ///
+
+//Create an array of words
+
+// Choose word randomly  
+//Math.floor and Math.random.  Make random number based on length of words array.
+
+//Create underscores based on the length of the word
+//Get user's guess
+// Check if guess is right
+
+// If Right, push to right array
+// If Wrong, push to wrong array
+
+// Generate random number based on the array
+
